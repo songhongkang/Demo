@@ -19,5 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.d("小宋加入开发，并做了一个牛逼功能", "onCreate: ");
 
+
+        Log.d("小宋加入开发,做另一个模块，去分支1上面搞", "onCreate: ");
     }
 }
