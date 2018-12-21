@@ -10,4 +10,6 @@ public class demo {
 
 
     private String  wwww = "";
+
+    private String fenzhi = "";
 }
